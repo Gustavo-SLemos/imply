@@ -198,3 +198,17 @@ a:hover {
     max-width: 100%;
     height: auto;
 }
+
+.alert-success {
+    background: #C5E1A5;
+    margin: 4px;
+    padding: 12px;
+    color: #7CB342;
+}
+
+.alert-error {
+    background: #FFAB91;
+    margin: 4px;
+    padding: 12px;
+    color: #F4511E;
+}
